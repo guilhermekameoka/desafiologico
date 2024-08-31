@@ -1,6 +1,6 @@
-1. Eu acenderia o primeiro interruptor e deixaria ligado por bastante tempo
-2. Depois eu desligaria o primeiro interruptor e ligaria o segundo
-3. Logo em seguida eu iria para a primeira das salas (gatando minha primeira ida)
-4. Se a lampada estiver quente e apagada, então o primeiro interruptor foi o que a acendeu
-5. Se estiver fria e desligada então saberei que o interruptor que ligaria essa lampada seria o terceiro
-6. Se estiver acesa, saberei que é o segundo interruptor.
+1. Eu ligaria o primeiro interruptor e o deixaria ligado por um tempo considerável
+2. Em seguida, eu desligaria o primeiro interruptor e ligaria o segundo interruptor
+3. Logo depois, eu sairia para verificar as lâmpadas (primeira saída da sala)
+4. Se uma lâmpada estiver acesa, saberei que ela está conectada ao segundo interruptor
+5. Se uma lâmpada estiver apagada, mas ainda quente, irei saber que ela está conectada ao primeiro interruptor
+6. Se uma lâmpada estiver apagada e fria, irei saber que ela está conectada ao terceiro interruptor
